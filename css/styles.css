@@ -228,9 +228,7 @@ body {
   text-transform: capitalize;
   margin-bottom: 72px;
 }
-. portfolio-container {
-  display: flex;
-}
+
 .portfolio-list {
   display: flex;
   flex-wrap: wrap;
